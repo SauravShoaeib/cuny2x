@@ -1,6 +1,4 @@
-# Personal_Projects
-
-CIHE: Chicken Invaders Heba Edition 
+#CIHE: Chicken Invaders Heba Edition 
 
 -Requirements to Run
 	-Have a runnable java environment, simply drag and drop the .jar file from the GitHub repo and double click
